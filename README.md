@@ -6,7 +6,7 @@
 
 这个主题的goindex目前是基于 [yanzai/goindex](https://github.com/yanzai/goindex/)
 
-[README](README.md) | [中文文档](README_zh.md)
+[README](README.md) | [英文文档](README_en.md)
 
 ## 预览  
 
